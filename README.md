@@ -14,10 +14,10 @@
 - ly
 - ttf-ms-fonts
 - yay 
-- eww 
+- yambar
 - hyprland-git
 - nvidia-vaapi-driver-git
-- wofi
+- rofi-lbonn-wayland-git
 - swaybg
 - noto-fonts-emojis
 
@@ -31,7 +31,7 @@
 - qt6ct
 - libva
 - btop
-- kitty
+- foot
 - fish
 - mpv
 - xplr
