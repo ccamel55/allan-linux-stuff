@@ -48,7 +48,3 @@
 - bleachbit
 - noto-fonts
 - neofetch
-
-## shit to do in arch
-- turn on trim for ssd
-- 
